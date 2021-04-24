@@ -1,0 +1,5 @@
+# ignoring dev folders
+*/dev/*
+*.png
+*.html
+*.xml
