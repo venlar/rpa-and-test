@@ -6,23 +6,32 @@ https://github.com/paulund/vuejs-crud.git
 2. Node.js & npm
 
 # How to run
-1. Clone repo 
+1. Clone repo
+```
 git clone https://github.com/paulund/vuejs-crud.git
+```
 
 2. Install server
+```
 cd vuejs-crud
 
 npm install
+```
+**starting front-end**
+```
+npm run dev
+```
+**starting back-end**
+```
+node server.js
+```
 
-two processes:
-    starting front-end
-        npm run dev
-    starting back-end
-        node server.js
 3. Run tests
+```
 cd ..\tests
 
 robot .
+```
 
 4. Observe results
 report.html
