@@ -1,4 +1,4 @@
-# MY RPA PROJECTS
+# MY TEST AUTOMATION & RPA PROJECTS
 This repository contains my test automation projects that I have done in order to improve my skills. You can learn more about my projects below:
 
 # Skincare project
